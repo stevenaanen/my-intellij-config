@@ -1,0 +1,13 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="http://sonar.savannah.wcc.nl/" />
+          <token />
+          <option name="name" value="wcc sonar" />
+        </SonarQubeServer>
+      </list>
+    </option>
+  </component>
+</application>
