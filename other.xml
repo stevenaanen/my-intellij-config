@@ -62,6 +62,10 @@
     <filtersTableLayout />
     <propertiesTableLayout />
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.4.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v6.9.4/bin/node" />
+  </component>
   <component name="RefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="false" />
     <option name="RENAME_SEARCH_FOR_TEXT_FOR_CLASS" value="false" />
